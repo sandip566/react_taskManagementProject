@@ -1,0 +1,52 @@
+
+.main_div {
+    border: 1px solid gray;
+    width: 47%;
+    padding: 0.3vw 1vw 0.6vw 1vw;
+    border-radius: 1vh;
+    max-width: 150%;
+    margin-left: 20px;
+  }
+  
+  
+  .main_div:hover {
+    background-color: #17a2b8; 
+  }
+  
+  .child-div_1 {
+    margin-left: 10px;
+  }
+  
+  .child-div_2 {
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .child-div_3 {
+    margin-left: 40px;
+    font-size: 16px;
+  }
+  
+  .end {
+    color: #038d0a;
+    background-color: rgb(195 221 195);
+    border: 1px solid green;
+    padding: 0.4rem;
+   font-weight: 600;
+    border-radius: 15vh;
+    text-align: center;
+    width: 189px;
+    margin-left: 408px;
+    position: fixed;
+    top: 175px;
+    font-size: 13px;
+  }
+  
+  
+  .last_button{
+    background-color:skyblue;
+    border: 1px solid black;
+    border-radius: 0.5vw;
+    width: 12vw;
+  }

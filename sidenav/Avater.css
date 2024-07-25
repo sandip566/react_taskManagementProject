@@ -1,0 +1,25 @@
+.Avator-setup {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    border-radius: 200%;
+    padding-top: 4px;
+    padding-bottom: 6px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: rgb(158, 158, 9);
+    margin-right: 1vw;
+    cursor: pointer;
+}
+
+.dropdown-menu.profile {
+    max-height: 500px;
+    /* overflow-y: auto; */
+}
+
+a {
+    text-decoration: none;
+}
+.dropdown-toggle{
+    color: white;
+    margin-right: 10px;
+}

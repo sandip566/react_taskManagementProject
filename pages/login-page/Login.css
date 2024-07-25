@@ -1,0 +1,16 @@
+
+  .bg-img{
+    background-image: url('./pexels-photo-3782231\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;   
+  }
+  
+  .hidden {
+    overflow: hidden;
+  }
+
+  .color {
+    color: rgb(78, 159, 173);
+}
+

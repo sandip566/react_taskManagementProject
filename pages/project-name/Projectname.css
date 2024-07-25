@@ -1,0 +1,38 @@
+.leftSide {
+    margin-left: 3vw;
+    margin-top: 3vw;
+}
+
+/* .wid {
+    
+    border-bottom: 1px solid black; 
+    width: 80%; 
+    padding: 7px; 
+    margin: 17px; 
+    outline: none;
+} */
+
+
+.setInput {
+    border: none; /* Remove default border */
+    border-bottom: 1px solid black; /* Add bottom border */
+    width: 80%; /* Take full width of container */
+    padding: 7px; /* Adjust padding as needed */
+    margin: 17px 0; /* Adjust margin as needed */
+  
+}
+
+
+.back-img {
+    position: fixed;
+    width: 36vw;
+    height: 32vw;
+}
+
+.front-img {
+    position: fixed;
+    top: 22%;
+    left: 60%;
+    width: 36vw;
+    height: 32vw;
+}

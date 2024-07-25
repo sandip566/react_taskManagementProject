@@ -1,0 +1,141 @@
+.main {
+    margin-top: 50px;
+    transition: all 0.3s;
+}
+
+@media (max-width: 1314px) {
+    .main {
+        padding: 20px;
+    }
+
+    .June, .June1, .btnweek, .rowcol {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .June1 {
+        padding-top: 0;
+    }
+
+    .Female {
+        margin-top: 0;
+        float: none;
+    }
+
+    .Acol-6, .Bcol-4 {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .textyour {
+        margin-top: 5%;
+        padding: 15px;
+    }
+
+    .Customize {
+        width: 100%;
+    }
+
+    .cardtext {
+        width: 100%;
+        height: auto;
+    }
+
+    .colbtnw {
+        height: auto;
+        width: 100%;
+    }
+}
+
+.setbackgroundcolor {
+    background-color: rgb(188, 159, 216);
+    height: 100vh;
+}
+
+.June {
+    display: flex;
+    justify-content: center;
+}
+
+.June1 {
+    display: flex;
+    justify-content: center;
+    padding-top: -15%;
+}
+
+.btnweek {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    height: 80%;
+}
+
+.MyWeek {
+    border-radius: 20px;
+    padding: 1.5vw;
+}
+
+.Female {
+    float: right;
+    margin-top: -2%;
+}
+
+.rowcol {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.colbtnw {
+    height: 8.6cm;
+    width: 8cm;
+}
+
+.Createbtn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.btnallc {
+    font-size: 14px;
+    padding: 7px;
+}
+
+.cardtext {
+    width: 35rem;
+    height: 8.3cm;
+    float: left;
+    border-radius: 10px;
+}
+
+.Acol-6 {
+    float: left;
+    width: 60%;
+    margin-left: 13%;
+}
+
+.Bcol-4 {
+    float: left;
+    width: 33%;
+    margin-left: 10px;
+}
+
+.colbtnw, .cardtext {
+    width: 100%;
+}
+
+.cardb1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.textyour {
+    font-size: 13px;
+    padding: 30px;
+    margin-top: 15%;
+}
+
+.Customize {
+    border-radius: 8px;
+}

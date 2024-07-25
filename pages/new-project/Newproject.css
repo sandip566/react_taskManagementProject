@@ -1,0 +1,50 @@
+.input-box1 {
+    display: block;
+    margin-top: 5px; 
+    width: 95%;
+    border: none; /* Remove all borders */
+    border-bottom: 1px solid black; /* Add bottom border */
+    /* outline: none; */
+}
+.input-box2 {
+    display: block;
+    margin-top: 5px; 
+    width: 95%;
+    
+}
+.setImage{
+    display: flex;
+    gap: 30px; 
+    /* justify-content: space-around;  */
+    align-items: center; 
+}
+.setImageList{
+    border: 1px solid grey;
+    /* padding:1.5vw; */
+    padding-top: 1vw;
+    padding-right: 2vw;
+    padding-bottom: 1vw;
+    padding-left: 2vw;    border-radius: 10%;
+}
+.setImageBord{
+    border: 1px solid grey;
+    /* padding:1.5vw; */
+    padding-top: 1vw;
+    padding-right: 1.5vw;
+    padding-bottom: 1vw;
+    padding-left: 1.5vw;    border-radius: 10%;
+}
+.setImageList:hover,
+.setImageBord:hover {
+    background-color: #17a2b8;
+}
+.setButton{
+    width: 95%;
+    border: 1px solid grey;
+    background-color: white;
+    padding: 0.5vw;
+}
+.setImageOverview{
+    height: 42.5vw;
+    width: 62vw;
+}
